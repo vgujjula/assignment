@@ -23,6 +23,3 @@ The following steps MUST be followed to run this program
 10. You can find documentation under "docs" folder.
 
 11. You can also see the example output under example-execution folder
-README.txtOpen
-1 of 2 items
-README.txtvenkat_assignmentDisplaying README.txt.
